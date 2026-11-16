@@ -1,3 +1,4 @@
 # Quarto
 *_files/
 .quarto/
+*.html
